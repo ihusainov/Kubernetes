@@ -31,7 +31,7 @@ kops create cluster \
 
 ## Example 2: private topology
 
-Create a cluster using [private network topology](../topology.md):
+Create a cluster using private network topology:
 
 ```
 kops create cluster \
